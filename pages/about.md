@@ -1,8 +1,10 @@
 ---
-layout: page
 title: About
-permalink: /about/
-tags: [About, Archive]
+layout: page
+permalink: "/about/"
+tags:
+- About
+- Archive
 order: 1
 hide: true
 toc: true
@@ -14,8 +16,6 @@ Founded in 2008, The Zeitgeist Movement is a Sustainability
 Advocacy Organization which conducts community based activism and
 awareness actions through a network of Global/Regional Chapters,
 Project Teams, Annual Events, Media and Charity Work.
-
-
 The Movement's 	principle focus includes the recognition that the
 majority of the social problems which plague the human species at this
 time are not the sole result of some institutional corruption,
@@ -115,8 +115,7 @@ us and let us know.
 
 
 ### Advocate
- Many people support the
-Movement through personal self-directed activities, whether it be
+Many people support the Movement through personal self-directed activities, whether it be
 through media content creation, public speaking, charity work,
 social media and more. There are many ways an individual may
 engage in their own personal actions without the need for formal
@@ -125,22 +124,15 @@ chapter affiliation.
 
 
 ## How does TZM view our major social problems today?
-&nbsp;
-
 TZM is different from most activist communities and
 political/social movements in the world today, due to the way we
 view the majority of the societal problems and their causes. We
 see it as structural.
-
 In short, the socioeconomic system itself is regarded as the
 root cause of persistent negative societal outcomes, with human
 behavior and its resulting effects â€“ corruption, pollution, wars,
 waste, exploitation, and hence, distortion of values and
 psychology â€“ seen as symptoms of this fundamental root source.
-
-
-
-
 ## Which current issues does the movement focus on?
 
 ### General Observations:

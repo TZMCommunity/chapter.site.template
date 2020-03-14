@@ -14,6 +14,7 @@ gem "jekyll-toc"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
 gem "jekyll-minifier"
+gem "jekyll-admin"
 
 gem "jekyll", "~> 4.0"
 
