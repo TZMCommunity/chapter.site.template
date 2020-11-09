@@ -23,3 +23,4 @@ gem "html-proofer"
 # security updates
 # gem "rack", ">= 2.1.4"
 
+gem "editorial_jekyll_theme", :path => './editorial-jekyll-theme'

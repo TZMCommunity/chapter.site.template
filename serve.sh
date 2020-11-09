@@ -1,3 +1,3 @@
-bash bundle.sh
+#bash bundle.sh
 bash runjekyll.sh jekyll serve
 

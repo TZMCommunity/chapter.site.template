@@ -1,3 +1,8 @@
+PATH
+  remote: editorial-jekyll-theme
+  specs:
+    editorial_jekyll_theme (0.1.4)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -134,6 +139,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  editorial_jekyll_theme!
   html-proofer
   jekyll (= 4.1.1)
   jekyll-assets
